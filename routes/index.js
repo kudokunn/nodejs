@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express', name: 'hangpt' })
+  res.render('index', { title: 'Express', name: 'miinhlb' })
 });
 
 /* GET sub page. */
